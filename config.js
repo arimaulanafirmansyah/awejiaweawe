@@ -20,7 +20,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '2021 COPYRIGHT BY'
+global.packname = 'Creator/'
 global.author = 'AMFCODE'
 
 global.multiplier = 69 // The higher, The harder levelup
